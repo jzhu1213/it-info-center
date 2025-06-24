@@ -1,14 +1,16 @@
 # ServiceNow Training Portal
 
-ASICS Intern Project
+My name is James Zhu and I am an IT Analyst Intern for ASICS this Summer 2025. This project show the cumulative learning and knowledge I have gained
+throughout my time with the company. My responsibilities as an intern include managing ServiceNow workflows, diagnosing and resolving IT needs, and 
+this project! More to come...
 
 ## Features
 
-Modules
+Modules/Tutorials
 
 Quizzes
 
-Mock Simulations
+Mock Simulations, API Integration
 
 ## Contributing
 
